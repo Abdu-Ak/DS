@@ -219,7 +219,7 @@ function kLarge(array,k) {
       
     }
      for (let i = 0; i < newArr.length; i++) {
-       for (let j = i +1; j < array.length; j++) {
+       for (let j = i +1; j < newArr.length; j++) {
           if (newArr[i] < newArr[j] ) {
              temp = newArr[i]
              newArr[i] = newArr[j]

@@ -238,4 +238,4 @@ list.onFirst(1);
 list.onFirst(2);
 list.onFirst(3);
 list.onFirst(4);
-console.log(list.searchIndex(2))
+console.log(list.searchIndex(1))
