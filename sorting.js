@@ -30,7 +30,6 @@ function insertionSort(array) {
 }
 
 // worst O(n^2)
-
 // averge O(nlogn)
 
 function quickSort(array) {
